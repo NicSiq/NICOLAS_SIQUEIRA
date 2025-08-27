@@ -24,8 +24,8 @@ https://templatemo.com/tm-594-nexus-flow
             --darker-bg: #0f051a;
             --card-bg: rgba(229, 231, 235, 0.03);
             --border-color: rgba(229, 231, 235, 0.2);
-            --text-primary: #ffffff;
-            --text-secondary: #a1a1aa;
+            --text-primary: #ff007f;
+            --text-secondary: #800080;
             --primary-cyan: #00ffff;
             --primary-pink: #ff00ff;
         }
@@ -1635,4 +1635,5 @@ https://templatemo.com/tm-594-nexus-flow
 
         ::-webkit-scrollbar-thumb:hover {
             background: linear-gradient(var(--primary-pink), var(--primary-cyan));
+
         }
